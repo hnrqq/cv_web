@@ -1,0 +1,45 @@
+body{
+    background:#DCDCDC;
+    margin: auto;
+    max-width: 900px;
+}
+
+section{
+    background: #C0C0C0;
+    padding: 10px;
+    margin: 15px;
+    border: 2px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+#titulo, .subtitulo{
+    font-family: "consolas";
+    color: #696969;
+}
+
+.photo{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+ul{
+    list-style-type: square;
+}
+
+a:link { 
+ text-decoration:none;
+ color: black;
+}
+
+.contact-list{
+    padding-left: 15px;
+    
+}
+
+footer{
+    text-align: center;
+}
+
